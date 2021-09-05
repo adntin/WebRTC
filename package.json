@@ -1,0 +1,14 @@
+{
+  "name": "WebRTC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adntin/WebRTC.git",
+  "author": "linbin <adntin@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start":"http-server"
+  },
+  "devDependencies": {
+    "http-server": "^13.0.1"
+  }
+}
